@@ -1,6 +1,6 @@
 ---
 
-# Мессенджер [ChatMe](chatme.site)
+# Мессенджер [chatme.site](https://chatme.site/)
 
 _Домашнее задание #1_
 
